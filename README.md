@@ -25,4 +25,4 @@ Allows the user to switch between multiple settings easily (Good for when multip
 
 # How to update
 * To update you just need to downlaod the new python files (all files ending in .py), and replace the old files in the same folder
-* Other wise your data will be lost
+* ^ Otherwise your data will be lost
