@@ -16,4 +16,4 @@ Select option 1 (Add a new preset)
 Enter the directory of the settings file that you would like to save
 * The program will save the settings file for when you activate your preset
 ^ Do this for as many option files as you would like
-**And now whenever you want to restore the settings that you saved earlier you use "Activate Presets"
+**And now whenever you want to restore the settings that you saved earlier you use "Activate Presets"**
