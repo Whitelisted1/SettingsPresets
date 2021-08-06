@@ -8,8 +8,8 @@ Download the python Files
 Run the 'main.py' script
 
 # How to setup profiles
-Create a profile by selecting the option 'signup'
-Type in a name for this profile
+Create a profile by selecting the option 'signup'\n
+Type in a name for this profile\n
 * The profile will be created and you will be returned to the settings menu
 Select 'login' and select your profile
 Select option 1 (Add a new preset)
