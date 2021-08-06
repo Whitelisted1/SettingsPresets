@@ -1,3 +1,6 @@
+* Note: This is just a clumsy little project that I can up with, and it can easily be optimized
+* If you would like to use this idea, please tell me so I can check it out! (Ideally with discord: Whitelisted#9015 (UserID: 513501267377782791)
+
 # SettingsPresets
 Allows the user to switch between multiple settings easily (Good for when multiple people use the same computer)
 * Saves option files to be swapped out after the original option file is changed
