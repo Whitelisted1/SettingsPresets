@@ -9,9 +9,9 @@ Allows the user to switch between multiple settings easily (Good for when multip
 * Saves option files to be copied out after the original option file is changed
 
 # How to setup file
-Download Python 3.X (https://www.python.org/downloads/)
-Download the python Files
-Run the 'main.py' script
+1) Download Python 3.X (https://www.python.org/downloads/)
+2) Download the python Files
+3) Run the 'main.py' script
 
 # How to setup profiles
 1) Create a profile by selecting the option 'signup'
