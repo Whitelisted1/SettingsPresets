@@ -10,7 +10,7 @@ Allows the user to switch between multiple settings easily (Good for when multip
 
 # How to setup file
 1) Download Python 3.X (https://www.python.org/downloads/)
-2) Download the python Files
+2) Download the Github Files
 3) Run the 'main.py' script
 
 # How to setup profiles
