@@ -2,7 +2,7 @@ from login import loginsignup
 import time
 
 print("To report bugs please check out the github: https://github.com/Whitelisted1/SettingsPresets")
-print("My Discord: Whitelisted#9015")
+print("https://bit.ly/WhitelistedYT")
 time.sleep(2)
 print("")
 
